@@ -9,7 +9,8 @@ import myclasses.WorldConfig;
 * A view that represents what the user sees when they are facing
 * a specific direction at a given location
 *
-* @author mukeswe brian
+* @author Brian Mukeswe
+* @contact b.mukeswe@ed.ac.uk
 *
 */
 public class View {
