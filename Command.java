@@ -3,8 +3,12 @@ package myclasses;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
-
 import enums.CommandWord;
+/*
+* @author Brian Mukeswe
+* @contact b.mukeswe@sms.ed.ac.uk
+*
+*/
 
 public class Command {
 	
