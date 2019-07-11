@@ -9,7 +9,8 @@ import myclasses.World;
 /**
  * A controller for the World application.
  * 
- * @author Mukeswe Brian
+ * @author Brian Mukeswe
+ * @contact b.mukeswe@sms.ed.ac.uk
  *
  */
 public class Controller {
