@@ -4,7 +4,8 @@ package myclasses;
 * A portable item that can be picked up an carried from
 * one location to another
 *
-* @author mukeswe brian
+* @author Brian Mukeswe
+* @contact b.mukeswe@sms.ed.ac.uk
 *
 */
 public class Item {
