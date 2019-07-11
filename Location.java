@@ -10,6 +10,7 @@ import java.util.List;
  * The location may also contain portable items.
  * 
  * @author mukeswe brian
+ * @contact b.mukeswe@sms.ed.ac.uk
  *
  */
 public class Location {
