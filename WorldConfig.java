@@ -9,7 +9,8 @@ import java.util.List;
  * and items in the virtual world. For location images, the configuration class also 
  * specifies the exits that are in each image file (if any).
  * 
- * @author mukeswe brian
+ * @author Brian Mukeswe
+ * @contact b.mukeswe@ed.ac.uk
  *
  */
 public class WorldConfig {
