@@ -11,7 +11,8 @@ import myclasses.Abilities;
  * portable items from one location to another using a cart. The avatar's abilities
  * correspond to specific user commands.
  * 
- * @author mukeswe brian
+ * @author Brian Mukeswe
+ * @contact b.mukeswe@sms.ed.ac.uk
  *
  */
 public class Avatar {
