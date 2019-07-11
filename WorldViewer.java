@@ -8,6 +8,9 @@ import myclasses.View;
 
 /**
 * An interface for a world veiwer
+* @author Brian Mukeswe
+* @contact b.mukeswe@ed.ac.uk
+*
 */
 public interface WorldViewer {
 	
