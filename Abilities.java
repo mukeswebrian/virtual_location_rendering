@@ -6,6 +6,8 @@ import java.util.HashMap;
 * A class that implements the avatar's abilites including navigation and 
 * manipulation of portable items in the virtual world. 
 *
+* @author Brian Mukeswe
+* @contact b.mukeswe@sms.ed.ac.uk
 */
 public class Abilities {
 	
