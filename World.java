@@ -6,7 +6,8 @@ import myclasses.WorldConfig;
 /**
  * A virtual world that contains various locations.
  * 
- * @author mukeswe brian
+ * @author Brian Mukeswe
+ * @contact b.mukeswe@ed.ac.uk
  *
  */
 public class World {
